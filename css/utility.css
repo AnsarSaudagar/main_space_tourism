@@ -1,0 +1,55 @@
+.barlow1{
+    font-family: 'Barlow', sans-serif;
+}
+.barlow2{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.bellefair{
+    font-family: 'Bellefair', serif;
+}
+
+.text14{
+    font-size: var(--text-size14);
+}
+.text15{
+    font-size: var(--text-size15);
+}
+.text16{
+    font-size: var(--text-size16);
+}
+
+.text18{
+    font-size:var(--text-size18);
+}
+.text28{
+    font-size:var(--text-size28);
+}
+.text32{
+    font-size:var(--text-size32);
+}
+.text56{
+    font-size:var(--text-size56);
+}
+.text100{
+    font-size:var(--text-size100);
+}
+.text150{
+    font-size:var(--text-size150);
+}
+
+
+/* ------------------------------------- */
+
+.purple-color{
+    color: var(--text-color-purple);
+}
+
+.flex-row{
+    display: flex;
+}
+
+.hidden{
+    display: none;
+}
+
+

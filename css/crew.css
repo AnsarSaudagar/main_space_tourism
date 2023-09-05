@@ -1,0 +1,81 @@
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.crew {
+    min-height: 120vh;
+    width: 100%;
+    background-image: url(../assets/crew/background-crew-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 2.5rem;
+    position: relative;
+}
+
+.crew-main {
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-top: auto; */
+    /* position: absolute;
+    bottom:0; */
+    /* height: 90vh; */
+    height: 100%;
+}
+
+.crew-description {
+    display: flex;
+    flex-direction: column;
+    margin: 25% 0;
+}
+
+.crew-name {
+    opacity: 100;
+    color: white;
+    margin-bottom: 5%;
+}
+
+.crew-role {
+    opacity: 0.5;
+    color: rgba(255, 255, 255, 1);
+}
+
+.crew-para {
+    color: rgba(208, 214, 249, 1);
+}
+
+.crew-bottom {
+
+    justify-content: space-between;
+    width: 10vw;
+    /* position: sticky; */
+
+}
+
+.crew-btn {
+    height: 0.9rem;
+    width: 0.9rem;
+    background-color: white;
+    border-radius: 100%;
+    opacity: 0.17;
+    cursor: pointer;
+}
+
+.crew-img {
+    height: 100%;
+}
+
+.crew-text {
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: flex-start;
+}
+
+.crew-para {
+    width: 70%;
+}
+
+.crew-top {}
